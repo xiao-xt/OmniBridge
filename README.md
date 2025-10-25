@@ -155,6 +155,7 @@ Clone this repository and install required packages:
 ```shell
 git clone https://github.com/xiao-xt/OmniBridge
 
+conda create -n omnibridge python=3.10
 pip install -r requirements.txt
 ```
 

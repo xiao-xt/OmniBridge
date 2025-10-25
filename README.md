@@ -4,7 +4,7 @@
 
 <!-- [Emu3 Team, BAAI](https://www.baai.ac.cn/english.html) -->
 
-| [Github](https://github.com/xiao-xt/OmniBridge) | [Paper](https://arxiv.org/abs/2509.19018) | [🤗HF Models](https://huggingface.co/collections/) | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge/summary) | 
+| [Github](https://github.com/xiao-xt/OmniBridge) | [Paper](https://arxiv.org/abs/2509.19018) | [🤗HF Models]([https://huggingface.co/collections/](https://huggingface.co/xxt-ssr/Omnibridge-retrieval-finetuned)) | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge/summary) | 
 
 
 </div>
@@ -166,7 +166,7 @@ And you need to download the weights of the Decoder of HunyuanDiT for image gene
 | Model name               | HF Weight                                                      | Modelscope                                                                | 
 | ------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------- | 
 | **OmniBridge**          | [🤗 HF link]()          | [Modelscope link]()          |  
-| **OmniBridge-Retrieval-Finetuned**            | [🤗 HF link](https://huggingface.co/)            | [Modelscope link](https://www.modelscope.cn/models/xxtssr/OmniBridge/summary)            | 
+| **OmniBridge-Retrieval-Finetuned**            | [🤗 HF link]([https://huggingface.co/](https://huggingface.co/xxt-ssr/Omnibridge-retrieval-finetuned))            | [Modelscope link](https://www.modelscope.cn/models/xxtssr/OmniBridge/summary)            | 
 
 
 

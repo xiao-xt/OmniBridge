@@ -4,7 +4,7 @@
 
 <!-- [Emu3 Team, BAAI](https://www.baai.ac.cn/english.html) -->
 
-| [Github](https://github.com/xiao-xt/OmniBridge) | [Paper](https://arxiv.org/abs/2509.19018) | [🤗HF Models]([https://huggingface.co/collections/](https://huggingface.co/xxt-ssr/Omnibridge-retrieval-finetuned)) | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge/) | 
+| [Github](https://github.com/xiao-xt/OmniBridge) | [Paper](https://arxiv.org/abs/2509.19018) | [🤗HF Models](https://huggingface.co/xxt-ssr/Omnibridge) | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge/) | 
 
 
 </div>

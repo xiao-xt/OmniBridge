@@ -4,7 +4,7 @@
 
 
 
-| [Github](https://github.com/xiao-xt/OmniBridge) | [Paper](https://arxiv.org/abs/2509.19018) | [🤗HF Models](https://huggingface.co/xxt-ssr/Omnibridge) |  [🤗 HF link](https://huggingface.co/xxt-ssr/Omnibridge-retrieval-finetuned)  | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge/)       | [Modelscope link](https://www.modelscope.cn/models/xxtssr/OmniBridge_Retrieval_finetuned)            | 
+| [Github](https://github.com/xiao-xt/OmniBridge) | [Paper](https://arxiv.org/abs/2509.19018) | [🤗HF Models](https://huggingface.co/xxt-ssr/Omnibridge) |  [🤗 HF Models](https://huggingface.co/xxt-ssr/Omnibridge-retrieval-finetuned)  | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge/)       | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge_Retrieval_finetuned)            | 
 
 
 </div>

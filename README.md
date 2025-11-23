@@ -2,9 +2,9 @@
 <h1>OmniBridge: Unified Multimodal Understanding, Generation, and Retrieval via Latent Space Alignment</h1h1>
 <h3></h3>
 
-<!-- [Emu3 Team, BAAI](https://www.baai.ac.cn/english.html) -->
 
-| [Github](https://github.com/xiao-xt/OmniBridge) | [Paper](https://arxiv.org/abs/2509.19018) | [🤗HF Models](https://huggingface.co/xxt-ssr/Omnibridge) | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge/) | 
+
+| [Github](https://github.com/xiao-xt/OmniBridge) | [Paper](https://arxiv.org/abs/2509.19018) | [🤗HF Models](https://huggingface.co/xxt-ssr/Omnibridge) |  [🤗 HF link](https://huggingface.co/xxt-ssr/Omnibridge-retrieval-finetuned)  | [Modelscope](https://www.modelscope.cn/models/xxtssr/OmniBridge/)       | [Modelscope link](https://www.modelscope.cn/models/xxtssr/OmniBridge_Retrieval_finetuned)            | 
 
 
 </div>
@@ -198,7 +198,7 @@ python ./multimodal_retrieval.py
 
 ## Citation
 
-If you find Emu3 useful for your research and applications, please consider starring this repository and citing:
+If you find OmniBridge useful for your research and applications, please consider starring this repository and citing:
 
 ```
 @article{xiao2025omnibridge,
